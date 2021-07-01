@@ -1,0 +1,1878 @@
+[
+    {
+        "Emotions": "Tired",
+        "Frequency": 162
+    },
+    {
+        "Emotions": "Cheerful",
+        "Frequency": 89
+    },
+    {
+        "Emotions": "Good",
+        "Frequency": 72
+    },
+    {
+        "Emotions": "Fine",
+        "Frequency": 63
+    },
+    {
+        "Emotions": "Happy",
+        "Frequency": 62
+    },
+    {
+        "Emotions": "Motivated",
+        "Frequency": 60
+    },
+    {
+        "Emotions": "Busy",
+        "Frequency": 59
+    },
+    {
+        "Emotions": "Anxious",
+        "Frequency": 57
+    },
+    {
+        "Emotions": "Relaxed",
+        "Frequency": 54
+    },
+    {
+        "Emotions": "Optimistic",
+        "Frequency": 44
+    },
+    {
+        "Emotions": "Ready",
+        "Frequency": 44
+    },
+    {
+        "Emotions": "Frustrated",
+        "Frequency": 43
+    },
+    {
+        "Emotions": "Fortunate",
+        "Frequency": 39
+    },
+    {
+        "Emotions": "Alive",
+        "Frequency": 39
+    },
+    {
+        "Emotions": "Able",
+        "Frequency": 38
+    },
+    {
+        "Emotions": "Exhausted",
+        "Frequency": 38
+    },
+    {
+        "Emotions": "Content",
+        "Frequency": 34
+    },
+    {
+        "Emotions": "Focused",
+        "Frequency": 31
+    },
+    {
+        "Emotions": "Productive",
+        "Frequency": 30
+    },
+    {
+        "Emotions": "Tense",
+        "Frequency": 29
+    },
+    {
+        "Emotions": "Stressed",
+        "Frequency": 27
+    },
+    {
+        "Emotions": "Great",
+        "Frequency": 27
+    },
+    {
+        "Emotions": "Calm",
+        "Frequency": 26
+    },
+    {
+        "Emotions": "Confident",
+        "Frequency": 26
+    },
+    {
+        "Emotions": "Interested",
+        "Frequency": 25
+    },
+    {
+        "Emotions": "Reasonable",
+        "Frequency": 25
+    },
+    {
+        "Emotions": "Worried",
+        "Frequency": 24
+    },
+    {
+        "Emotions": "Sleepy",
+        "Frequency": 24
+    },
+    {
+        "Emotions": "Disappointed",
+        "Frequency": 23
+    },
+    {
+        "Emotions": "Composed",
+        "Frequency": 23
+    },
+    {
+        "Emotions": "Pleased",
+        "Frequency": 22
+    },
+    {
+        "Emotions": "Sad",
+        "Frequency": 21
+    },
+    {
+        "Emotions": "Excited",
+        "Frequency": 20
+    },
+    {
+        "Emotions": "Unsure",
+        "Frequency": 20
+    },
+    {
+        "Emotions": "Hopeless",
+        "Frequency": 20
+    },
+    {
+        "Emotions": "Hopeful",
+        "Frequency": 20
+    },
+    {
+        "Emotions": "Anticipation",
+        "Frequency": 20
+    },
+    {
+        "Emotions": "Cautious",
+        "Frequency": 20
+    },
+    {
+        "Emotions": "Confused",
+        "Frequency": 19
+    },
+    {
+        "Emotions": "Drained",
+        "Frequency": 18
+    },
+    {
+        "Emotions": "Settled",
+        "Frequency": 18
+    },
+    {
+        "Emotions": "Alright",
+        "Frequency": 17
+    },
+    {
+        "Emotions": "Capable",
+        "Frequency": 17
+    },
+    {
+        "Emotions": "Proud",
+        "Frequency": 16
+    },
+    {
+        "Emotions": "Appreciated",
+        "Frequency": 16
+    },
+    {
+        "Emotions": "Chilled",
+        "Frequency": 15
+    },
+    {
+        "Emotions": "Energized",
+        "Frequency": 14
+    },
+    {
+        "Emotions": "Prepared",
+        "Frequency": 13
+    },
+    {
+        "Emotions": "Lazy",
+        "Frequency": 12
+    },
+    {
+        "Emotions": "Committed",
+        "Frequency": 12
+    },
+    {
+        "Emotions": "Quiet",
+        "Frequency": 12
+    },
+    {
+        "Emotions": "Struggling",
+        "Frequency": 12
+    },
+    {
+        "Emotions": "Grateful",
+        "Frequency": 12
+    },
+    {
+        "Emotions": "Fatigued",
+        "Frequency": 12
+    },
+    {
+        "Emotions": "Negative",
+        "Frequency": 11
+    },
+    {
+        "Emotions": "Fed up",
+        "Frequency": 11
+    },
+    {
+        "Emotions": "Fulfilled",
+        "Frequency": 11
+    },
+    {
+        "Emotions": "Relieved",
+        "Frequency": 11
+    },
+    {
+        "Emotions": "Effective",
+        "Frequency": 11
+    },
+    {
+        "Emotions": "Curious",
+        "Frequency": 11
+    },
+    {
+        "Emotions": "Lucky",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Keen",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Down",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Nervous",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Annoyed",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Satisfied",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Enthusiastic",
+        "Frequency": 10
+    },
+    {
+        "Emotions": "Willing",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Fantastic",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Peaceful",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Restless",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Pessimistic",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Buzzing",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Responsible",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Cynical",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Kind",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Edgy",
+        "Frequency": 9
+    },
+    {
+        "Emotions": "Uncertain",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Brilliant",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Courageous",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Rough",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Unsettled",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Bored",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Engaged",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Unappreciated",
+        "Frequency": 8
+    },
+    {
+        "Emotions": "Purposeful",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Anxiety",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Healthy",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Passionate",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Dozy",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Strong",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Acknowledged",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Lovely",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Supportive",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Informed",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Agitated",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Accomplished",
+        "Frequency": 7
+    },
+    {
+        "Emotions": "Creative",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Angry",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Sensitive",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Livid",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Driven",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Alone",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Distant",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Bitter",
+        "Frequency": 6
+    },
+    {
+        "Emotions": "Tranquil",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Efficient",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Engrossed",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Jittery",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Surprised",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "OK",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Successful",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Flat",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Worthless",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Impatient",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Loved",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Free",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Panicky",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Complete",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Irritated",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Foreboding",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Reserved",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Thoughtful",
+        "Frequency": 5
+    },
+    {
+        "Emotions": "Exceptional",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Criticised",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Valued",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Undermined",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Overwhelmed",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Hungry",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Guilty",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Pissed off",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Weak",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Equilibrium",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Compassionate",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Warm",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Resilient",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Amazed",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Depressed",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Interest",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Generous",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Upbeat",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Worn-out",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Empty",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Altschmerz",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Active",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Concerned",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Wary",
+        "Frequency": 4
+    },
+    {
+        "Emotions": "Ambivalent",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Patient",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Delicate",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Mischievous",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Sluggish",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Deflated",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Barren",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Disconnected",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Slow",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Fresh",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Essential",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Angst",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Sociable",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Dithery",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Methodical",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Irritable",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Aggravated",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Empathic",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Resolute",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Anecdoche",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Upset",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Amazing",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Bad",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Apprehensive",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Absorbed",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Exhilarated",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Useless",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Decent",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Amused",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Competent",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Agnosthesia",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Knowledgeable",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Solid",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Refreshed",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Nostalgic",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Weary",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Uplifted",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Miserable",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Skeptical",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Reassured",
+        "Frequency": 3
+    },
+    {
+        "Emotions": "Stupid",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Marvelous",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Communicative",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Ineffective",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Klexos",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Terrible",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Dependent",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Defensive",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Infuriated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Bliss",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Comfortable",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Friendly",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Disgruntled",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Devastated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Joy",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Frank",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Cross",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Disbelief",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Exasperated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Furious",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Maternal",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Tentative",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Brave",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Positive",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Hassled",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Thankful",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Bewildered",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Undervalued",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Enjoyment",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Blas\u00e8",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Adamant",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Ambitious",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Perplexed",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Better",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Hurt",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Smart",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Distraught",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Disheartened",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Anger",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Flexible",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Enough",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Humorous",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Inadequate",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Intent",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Explosive",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Sufficient",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Distressed",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Perfect",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Stable",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Co-operative",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Cheated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Saturated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Sure",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Determination",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Glad",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Balanced",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Spent",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Innovative",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Chipper",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Secure",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Fretting",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Blessed",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Discouraged",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Celebrated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Aggitated",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Apathetic",
+        "Frequency": 2
+    },
+    {
+        "Emotions": "Experienced",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Obstructed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Knocked-back",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Withdrawn",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Crummy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Moved",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sharing",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Madcap",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Alluring",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Violent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Aspiration",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Agreeable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Dread",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Frustration",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Inspired",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Plucky",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Desperate",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unloved",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unreasonable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Lutalica",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Wounded",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Lost",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Uptight",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Involved",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Perturbed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Aggrieved",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Burdened",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Stupefied",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Determined",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Backsmacking",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Developed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Tearful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Heeded",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Mad",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Gay",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Expired",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Disconcerted",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unburdened",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Lethargic",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Clouded",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Careful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Acrimonious",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sparky",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Adrift",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Displeased",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unbiased",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Incredulous",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Complacent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Drab",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unhappy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Independent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Fear",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Electric",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sprightly",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Doubtful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Awesome",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Respected",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sulky",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Peculiar",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Tetchiness",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Stalled",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Skillful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Entranced",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Inspiring",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Gratitude",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Delightful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Mirth",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Baffled",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Ecstasy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Resolved",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Fuming",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Hostile",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sore",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Excitable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Clever",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Valuable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Done",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Adversity",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Assertive",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Forgotten",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Constant",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Defended",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Raw",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Adequate",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Ecstatic",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Condescended",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Uneasy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Rational",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Dedicated",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Stubborn",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Downtrodden",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Egocentric",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Triumphant",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Meaningful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Longing",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Seething",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Conscious",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Resferber",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Apomakrysmenophobia",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Insignificant",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Chuffed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Scared",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Broken",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Exemplary",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Adventurous",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Monachopsis",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Incandescent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Reliable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Grumpy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Bold",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Rage",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Influential",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Love",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Controlled",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Chagrin",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Caring",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Professional",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Discombobulated",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Pained",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Nighthawk",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Shadowy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Weird",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Disenchanted",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Natural",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Receptive",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Neglected",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Amiable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Removed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Wired",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Acknowledgement",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Definite",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Fascinated",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Crushed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Reclusive",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Conscientious",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Enthused",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Funny",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Bound",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Awful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Stoical",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Troubled",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Cosy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unproductive",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Encouraged",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Intelligent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Compliant",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Glee",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Jolly",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Vacuous",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Shattered",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Trusted",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Boosted",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Pent up",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Available",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Idiotic",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Impressed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Jubilation",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Heartfelt",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Realistic",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Fanciful",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Dreamy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Principled",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Responsive",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Harmonised",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Emboldened",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Low",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Nementia",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Groundless",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Persistent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Desolate",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Volatile",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sensible",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Bruised",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Entertained",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Beaming",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Flighty",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Disgraced",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Athletic",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Dilapidated",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Temperamental",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Rejected",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Unbelievable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Affrighted",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Suspicious",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Fiery",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Defeatist",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Incredible",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Reduced",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Tough",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Nugatory",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Enlightened",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Disgust",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Revived",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Xeno",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Thrilled",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Admiration",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Pathetic",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Despondent",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Ethical",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Inquisitive",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Vulnerable",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Sadness",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Supported",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Grieving",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Thunderstruck",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Bizarre",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Pleasant",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Centered",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Envied",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Responsiblity",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Exuberant",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Appreciation",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Repulsed",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Disquiet",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Lousy",
+        "Frequency": 1
+    },
+    {
+        "Emotions": "Introspective",
+        "Frequency": 1
+    }
+]
