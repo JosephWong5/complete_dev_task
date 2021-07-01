@@ -24,7 +24,7 @@ function getBarColour(frequency) {
     barColour = "orange";
   }
   else if (frequency < 100 && frequency >= 50) {
-    barColour = "yellow";
+    barColour = "#f1ce0b";
   }
   else if (frequency < 50) {
     barColour = "green";
